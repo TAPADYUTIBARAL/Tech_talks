@@ -1,2 +1,2 @@
 # Tech_talks
-Here i am discussed about extreme & wise changes in the tech areas specificaly on Automation Enginnering, Clean Energy & Cybersecurity.  
+Here i am discussed about extreme & wise changes in the technology specificaly on Automation Enginnering, Clean Energy & Cybersecurity.  
